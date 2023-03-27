@@ -1,0 +1,9 @@
+.todo{
+    border: 1px solid black;
+    width: 250px;
+    padding: 40px;
+}
+.completed{
+    color: gray;
+    text-decoration: line-through;
+}
